@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    alert('This is a github system');
+    // alert('This is a github system');
 });
