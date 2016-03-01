@@ -1,0 +1,26 @@
+{
+  "name": "clown-0726.github.io",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "clown_0726 <crown_0726@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/clown-0726/clown-0726.github.io",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  },
+  "devDependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.0"
+  }
+}

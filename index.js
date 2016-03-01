@@ -1,1 +1,3 @@
-alert('hello word');
+$(document).ready(function(){
+    alert('This is a github system');
+});
